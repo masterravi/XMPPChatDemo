@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="lib/asmack-android-19-0.8.10.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="/Volumes/DATA/Workspace/Ravindra/Workspace_android/Adapter/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Android-sdk/android-sdk-mac/platforms/android-16/android.jar" sourcepath="/Volumes/DATA/Android-sdk/android-sdk-mac/sources/android-16">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Volumes/DATA/Android-sdk/android-sdk-mac/docs/reference"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

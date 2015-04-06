@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Volumes/DATA/Workspace/AndroidStudio/XMPPChatDemo/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">XMPPChatDemo</string>
+    <string name="hello">Hello World, XMPPChatDemoActivity!</string>
+    <string name="live_host">10.2.4.162.</string>
+    <string name="port">5222</string>
+    <string name="pref_user_id">userid</string>
+    <string name="pref_user_password">password</string>
+</resources>

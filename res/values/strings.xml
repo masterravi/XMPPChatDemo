@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, XMPPChatDemoActivity!</string>
+    <string name="app_name">XMPPChatDemo</string>
+    <string name="live_host">10.2.4.162.</string>
+    <string name="port">5222</string>
+    <string name="pref_user_id">userid</string>
+    <string name="pref_user_password">password</string>
+
+</resources>
